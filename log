@@ -1,0 +1,17 @@
+{
+    "ContactId": "0fe8987d-f944-4fd7-ada2-b2f14b5d6073",
+    "ContactFlowId": "arn:aws:connect:ap-southeast-2:816069129194:instance/14fa5351-c556-4815-aaaf-0ea33277ad09/flow-module/a39d9110-7c22-405b-a1e6-cb6d8fcadac3",
+    "ContactFlowName": "TechServiceDesk-Entry",
+    "ContactFlowModuleType": "SetAttributes",
+    "Identifier": "Custom Attributes",
+    "Timestamp": "2025-02-20T04:40:22.425Z",
+    "Parameters": {
+        "Value": "Queue",
+        "AddAttributeToRelatedContact": "false",
+        "Key": "callRoutingApproach_BMVS_ADF"
+    },
+    "ModuleExecutionStack": [
+        "arn:aws:connect:ap-southeast-2:816069129194:instance/14fa5351-c556-4815-aaaf-0ea33277ad09/flow-module/a39d9110-7c22-405b-a1e6-cb6d8fcadac3",
+        "arn:aws:connect:ap-southeast-2:816069129194:instance/14fa5351-c556-4815-aaaf-0ea33277ad09/contact-flow/46b6792a-663b-4b2c-84d9-c606487795eb"
+    ]
+}
